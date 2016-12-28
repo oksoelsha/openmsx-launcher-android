@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/splash"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:layout_gravity="center_vertical"
+    android:orientation="vertical"
+    android:padding="10dp" >
+ 
+    <ImageView
+        android:id="@+id/main_icon"
+        android:layout_width="144dp"
+        android:layout_height="144dp"
+        android:layout_gravity="center_horizontal"
+        android:layout_marginTop="60dp"
+        android:contentDescription="@string/app_name"
+        android:minHeight="144dp"
+        android:minWidth="144dp"
+        android:src="@drawable/ic_launcher" />
+
+    <TextView
+        android:id="@+id/romBView"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center_horizontal"
+        android:text="@string/loading"
+        android:textAppearance="?android:attr/textAppearanceMedium" />
+ 
+</LinearLayout>

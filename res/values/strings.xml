@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">openMSX Launcher</string>
+    <string name="loading">Loading</string>
+    <string name="title_activity_main">MainActivity</string>
+    <string name="title_activity_display_message">DisplayMessageActivity</string>
+    <string name="title_activity_add_edit_profile">AddEditProfileActivity</string>
+    <string name="title_file_chooser">File Chooser</string>
+    
+    <string name="action_settings">Settings</string>
+    <string name="action_create_empty_database">Create Empty Database</string>
+    <string name="enter_name_new_db">Enter name of new database</string>
+    <string name="remove_selected_profile">Remove selected profile?</string>
+
+    <string name="general">General</string>
+    <string name="name">Name</string>
+    <string name="info">Info</string>
+    <string name="machine">Machine</string>
+    <string name="folder">Folder</string>
+    <string name="parent_folder">Parent Folder</string>
+    
+    <string name="rom">ROM</string>
+    <string name="disk">Disk</string>
+    <string name="tape">Tape</string>
+    <string name="harddisk">Hard Disk</string>
+    <string name="laserdisc">Laserdisc</string>
+    <string name="script">Script</string>
+
+    <string name="romA">ROM A</string>
+    <string name="romB">ROM B</string>
+    <string name="diskA">Disk A</string>
+    <string name="diskB">Disk B</string>
+    
+    <string name="ok">OK</string>
+    <string name="cancel">Cancel</string>
+
+    <string name="remove">Remove</string>
+    <string name="edit">Edit</string>
+    <string name="properties">Properties</string>
+    <string name="save">Save</string>
+    
+    <string name="edit_profile">Edit Profile</string>
+    <string name="add_profile">Add Profile</string>
+
+    <string name="profile_edited">Profile was edited</string>
+
+    <string name="ERR_IO">I/O Error</string>
+    <string name="ERR_DATABASE_ALREADY_EXISTS">Database already exists</string>
+    <string name="ERR_DATABASE_NULL_NAME">Database name cannot be empty</string>
+    <string name="ERR_DATABASE_NOT_FOUND">Database not found</string>
+    <string name="ERR_EMPTY_GAME_FIELDS">Game fields cannot be empty</string>
+    <string name="ERR_GAME_WITH_NULL_NAME">Game name cannot be empty</string>
+    <string name="ERR_GAME_NOT_FOUND">Game not found</string>
+    <string name="ERR_GAME_ALREADY_EXISTS">Game name already exists</string>
+
+</resources>
