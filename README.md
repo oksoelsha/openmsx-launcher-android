@@ -5,9 +5,9 @@ The biggest reason behind not finishing it was that the Android version of openM
 
 The third part dependencies at the time were:
 
-android-support-v4.jar
-aopalliance.jar
-guice-3.0-no_aop.jar
-javacsv.jar
-javax.inject.jar
-launcher.jar (this was some of the openMSX Launcher modules)
+* android-support-v4.jar
+* aopalliance.jar
+* guice-3.0-no_aop.jar
+* javacsv.jar
+* javax.inject.jar
+* launcher.jar (this was some of the openMSX Launcher modules)
